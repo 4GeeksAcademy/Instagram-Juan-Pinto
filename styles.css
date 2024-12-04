@@ -1,0 +1,83 @@
+*{
+    background-color: black;
+}
+
+.izquierda {
+  background-color:#fff;
+    height: 50px;
+    width: 500px;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.Dropdown{
+    background-color:#fff;
+    margin-left: 360px
+}
+header img {
+   background-color:#fff;
+   height: 30px;
+   width: 30px;
+}
+
+button {
+    background-color:#fff;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  main {
+    display: flex;
+    justify-content: center;
+  }
+  main img {
+    max-width: 500px;
+  }
+
+  footer{
+    background-color:#fff;
+    height: 50px;
+    width: 500px;
+    justify-content: left;
+    margin: auto;
+    display: flex;
+    align-items: center;
+  }
+footer button{
+  margin-left: 20px;
+}
+.save{
+  margin-left: 300px;
+}
+
+div .arriba{
+    background-color:#fff;
+    width: 500px;
+    justify-content: left;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+div .abajo{
+  background-color:#fff;
+  width: 500px;
+  justify-content: left;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+p{
+  background-color:#fff;
+}
+strong{
+  background-color:#fff;
+}
+
+
+
+
+
+  
